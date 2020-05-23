@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "AggregationExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shahriar220_280@bitbucket.org/shahriar220_280/git-tutorial.git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "shahriar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/shahriar220_280/git-tutorial#readme",
+  "dependencies": {
+    "mongodb": "^3.5.7"
+  }
+}
